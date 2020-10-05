@@ -1,0 +1,27 @@
+.boite1{
+    font-family: 'Comfortaa', cursive; 
+    color:white;
+    background-color:  #434855;
+    margin-top: 5%;
+    width: 65%;
+    height: 50%;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+input,button{
+    margin-left: 1%;
+}
+
+.btn3{
+    border-radius: 15px!important;
+}
+
+input{
+    border-radius: 15px;
+    text-align: center;
+}
+
+p i {
+    color:rgb(0, 0, 0);
+}

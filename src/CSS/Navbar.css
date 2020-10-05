@@ -1,0 +1,53 @@
+.menu-vertical{
+    background-color:  #24262c;
+    width: 300px;
+    position: fixed;
+    top:0;
+    bottom: 0;
+    box-shadow: 9px 3px 19px -8px #2a2b2e;
+    font-family: 'Comfortaa', cursive; 
+    
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.logo1{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+ul{
+    margin-top: 20%;
+}
+li{
+    margin-bottom: 4%;
+}
+.btn{
+    border-radius: 0px!important ;
+}
+.btn1{
+    color:white;
+    border: 0px;
+}
+
+.btn1:hover{
+    border-radius: 0px;
+}
+
+.btn1:after{
+    border-radius: 0px;
+}
+
+hr{
+    border-color: white;
+    width: 50%;
+}
+
+
+
+.page{
+    margin-left: 25%;
+}
